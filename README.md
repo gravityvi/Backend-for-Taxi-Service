@@ -1,4 +1,17 @@
-# Spring Boot Maven
+# Backend For Taxi Service.
+
+## About The Project
+This project was built to learn archietecture of spring boot application project. It exposes two main controller layer one for  Driver service and other is taxi service. Just a starter project for someone who is new to spring application and layered architecture which is used in industries.
+- controller layer
+- service layer
+- models
+- DTO
+- exception handler
+- custom exception and response object
+
+
+## PROJECT SETUP
+### Spring Boot Maven
 
 PROJECT START STEPS:
 
@@ -15,3 +28,4 @@ PROJECT START STEPS:
             - java -jar ./target/spring-boot-in-docker.jar
 
     2. Go to http://localhost:8080/ in your browser to view it.
+
