@@ -4,6 +4,7 @@
 This project was built to learn archietecture of spring boot application project. It exposes two main controller layer one for  Driver service and other is taxi service. Just a starter project for someone who is new to spring application and layered architecture which is used in industries.
 - controller layer
 - service layer
+- validation
 - models
 - DTO
 - exception handler
